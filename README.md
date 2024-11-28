@@ -1,1 +1,1 @@
-# Encoding-Integers
+This code asks the user to input a number between 4 - 8 digits long (inclusive) and encodes that number for them to keep it secure. If the number is 8 digits long the user will be asked if they would like extra encryption which they can elect to not have if theyd prefer not to.
